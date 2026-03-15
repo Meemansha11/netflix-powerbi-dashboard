@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](Screenshot 2026-03-15 144956.png)
 
 ## Tools Used
 - Power BI
