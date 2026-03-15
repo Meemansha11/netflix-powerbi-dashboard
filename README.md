@@ -1,16 +1,20 @@
 # Netflix Content Analysis Dashboard
 
-## Dashboard Preview
+This project analyzes Netflix content data using Power BI.
 
+## Dashboard Preview
 ![Dashboard](Screenshot 2026-03-15 144956.png)
 
 ## Tools Used
 - Power BI
-- Netflix dataset
+- Netflix Movies and TV Shows Dataset
 
-## Insights
-- Movies vs TV Shows distribution
-- Netflix content growth over years
-- Top countries producing content
-- Popular genres
-- Content rating distribution
+## Insights from the Dashboard
+• Distribution of Movies vs TV Shows  
+• Netflix content growth by year  
+• Top countries producing Netflix content  
+• Most popular genres on Netflix  
+• Distribution of content ratings  
+
+## File Included
+Netflix-PowerBI-Dashboard.pbix – Power BI dashboard file
