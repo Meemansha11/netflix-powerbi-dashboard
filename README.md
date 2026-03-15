@@ -2,9 +2,6 @@
 
 This project analyzes Netflix content data using Power BI.
 
-## Dashboard Preview
-![Dashboard](Screenshot 2026-03-15 144956.png)
-
 ## Tools Used
 - Power BI
 - Netflix Movies and TV Shows Dataset
@@ -18,3 +15,6 @@ This project analyzes Netflix content data using Power BI.
 
 ## File Included
 Netflix-PowerBI-Dashboard.pbix – Power BI dashboard file
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
